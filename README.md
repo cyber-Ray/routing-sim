@@ -1,1 +1,2 @@
 # routing-sim
+This project was created to simulate a network converging to a stable state using the Distance Vector Routing Protocol. The input file provided the node connections and link costs to create the initial routing tables. Tkinter is used to visualize how the routing tables are updated over time. This process will continue until the network stabilizes. Once every node reaches a stable state, the program will display the amount of time it took to reach a stable state.
